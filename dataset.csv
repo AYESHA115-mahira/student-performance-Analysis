@@ -1,0 +1,11 @@
+gender,study_hours,attendance,parent_education,math_score,reading_score,writing_score
+female,5,90,bachelor,88,92,90
+male,3,75,highschool,65,70,68
+female,6,95,master,95,96,94
+male,2,60,highschool,55,58,60
+female,4,85,bachelor,78,80,82
+male,7,92,master,91,89,90
+female,5,88,bachelor,84,86,85
+male,3,70,highschool,60,63,65
+female,6,94,master,93,95,96
+male,4,80,bachelor,72,74,75
